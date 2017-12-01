@@ -1,9 +1,4 @@
 pre_ci_boot:
     image: index-staging.alauda.cn/testorg001/volume-test
     tag: svn 
-    image: index-staging.alauda.cn/testorg001/volume-test
-    tag: svn 
-    image: index-staging.alauda.cn/testorg001/volume-test
-    tag: svn 
-    image: index-staging.alauda.cn/testorg001/volume-test
-    tag: svn 
+    
